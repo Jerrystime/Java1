@@ -23,7 +23,7 @@ public class AccountingMethodApp {
 	}
 
 	private static double getDividend3() {
-		return getIncome()n * 0.2;
+		return getIncome() * 0.2;
 	}
 
 	private static double getDividend2() {
